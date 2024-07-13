@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love to k
   - **First Project:** [GithubSearchUser](https://github.com/bad-Al-code/asyncProject) - A simple app to search for GitHub users using vanilla JavaScript.
 
 - **Hobbies:**
-  - 💪 Gym freak
+  - 💪 Gym 
   
 - **Sports:**
   - 🏸 Badminton
