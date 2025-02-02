@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm passionate about web development and love to k
 - **Languages and Skills:** 
   - 🖥️ HTML
   - 🎨 CSS
-  - ⚙️ JavaScript
+  - ⚙️ JavaScript / Typescript
 
 - **Current Learning:** 
-  - 📚 Data Structures and Algorithms (DSA) in JavaScript
+  - 📚 Data Structures and Algorithms (DSA) in Typescript
 
 - **Projects:**
   - **First Project:** [GithubSearchUser](https://github.com/bad-Al-code/asyncProject) - A simple app to search for GitHub users using vanilla JavaScript.
